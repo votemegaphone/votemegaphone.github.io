@@ -1,0 +1,49 @@
+baseurl: ''
+exclude: ['README.md']
+permalink: pretty
+title: 'Megaphone'
+
+google_analytics_id: null
+homepage:
+  show_call_box: true
+logo:
+  mobile: "images/logo-mobile.svg"
+  desktop: "images/logo.svg"
+  desktop_height: "60px"
+footer:
+  copyright_text: '©2020 Megaphone'
+
+seo:
+  meta_og_title: "Megaphone"
+  meta_og_type: "website"
+  meta_og_url: "https://votemegaphone.org"
+  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_description: "Megaphone crowdsources ballot collecting to ensure every American can avail their right to vote."
+  meta_twitter_card: "summary"
+  meta_twitter_site: "@zerostaticio"
+  meta_twitter_creator: "@zerostaticio"
+
+collections:
+  services:
+    output: true
+    permalink: /services/:path/
+  team:
+    output: true
+    permalink: /team/:path/
+
+defaults:
+  - scope:
+      type: services
+    values:
+      layout: service
+      bodyClass: page-services-single
+  - scope:
+      path: 'images'
+    values:
+      image: true
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
+
+plugins:
+  - jekyll-environment-variables
