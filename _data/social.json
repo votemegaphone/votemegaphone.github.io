@@ -1,12 +1,7 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/github.svg"
-  },
-  {
     "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
+    "link": "https://twitter.com/votemegaphone",
     "image": "images/twitter.svg"
   }
 ]
