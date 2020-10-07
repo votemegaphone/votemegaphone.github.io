@@ -1,17 +1,17 @@
 [
   {
-    "title": "Collect Ballots",
-    "description": "Automate and engage community efforts to collect ballots.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Curate Database",
+    "description": "Manage official ballot rejection data from Election Commissions",
+    "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
-    "title": "Increase Voter Turnout",
+    "title": "Quickly Dispatch Assistance",
     "description": "Engage community members at a grassroots level.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Reach Marginalized Communities",
-    "description": "Safely educate and elevate community members at scale.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "Count Every Vote",
+    "description": "Ensure every voter's voice counts by minimizing ballot rejection.",
+    "image": "images/features/noun_branding_1885335.svg"
   }
 ]
