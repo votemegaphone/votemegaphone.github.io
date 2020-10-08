@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Megaphone - Crowdsource ballot collection.
+# Megaphone - Let the voices be heard.
 
-Megaphone helps American communities collect ballots to ensure that all Americans avail their right to vote.
+Megaphone's platform helps community organizers efficiently manage and assign volunteers to better assist voters with specific needs and increase voter turnout.
